@@ -2,14 +2,7 @@ Eu sou o @MarcosSmeets
 Sou um .Net Dev
 
 Estou focando atualmente em ASP.NET APIS
-          
 
-<div>
-<a href="https://github.com/MarcosSmeets">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSmeets&theme=dracula&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSmeets&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSmeets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 ### ⚒️ Tecnologies & Tools
 <div>
